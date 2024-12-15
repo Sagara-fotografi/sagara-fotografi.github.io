@@ -275,7 +275,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	padding-bottom: 100px;
 }
 #portfolio h2 {
-	line-height: 10px;
+	line-height: 20px;
 }
 #portfolio h3 {
 	color: #eb5424;
@@ -285,7 +285,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	text-decoration: none;
 }
 #portfolio img {
-	border-radius: 0px;
+	border-radius: 1px;
 	width: 100%;
 	max-width: 100%;
 	height: auto;
